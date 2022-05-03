@@ -1,0 +1,179 @@
+*{
+    margin-top: 0;
+}
+html {
+background-color: #121214;
+}
+
+:root {
+
+  --body-bg-color: #121214;
+
+  --text-color: #E1E1E6;
+
+  --title-color: ;
+
+  --form-color:#A8A8A8 ;
+
+
+
+}
+
+
+#link {
+  color:#8257E5 ;
+
+  position: absolute;
+
+  margin-top: 61px;
+
+  font-family: Spartan, sans-serif;
+
+  font-size: 14px;
+
+  font-weight: bold;
+padding: 25px;
+text-decoration: none;
+}
+
+
+p {
+  color: var(--form-color);
+
+    width: 647px;
+
+    left: 36px;
+
+    top: 300px;
+
+    margin-bottom: 6px;
+
+
+
+    font-family: Spartan, sans-serif;
+
+    font-style: normal;
+
+    font-weight: normal;
+
+    font-size: 14px;
+
+    line-height: 19px;
+
+    margin-bottom: 50px;
+}
+
+h2 {
+ color: #04D361;
+  
+
+  width: 566px;
+
+  height: 30.44px;
+
+  left: 36px;
+
+  top: 236px;
+
+ 
+
+
+  font-family: Work Sans, sans-serif;
+
+  font-style: normal;
+
+  font-weight: bold;
+
+  font-size: 24px;
+
+  line-height: 28px;
+
+
+}
+
+h2, h3, p {
+margin-left: 36px;
+
+}
+
+h3{
+  color: white;
+
+    width: 517px;
+
+    left: 36px;
+
+    top: 275px;
+
+
+
+    font-family: Spartan, sans-serif;
+
+    font-style: normal;
+
+    font-weight: bold;
+
+    font-size: 14px;
+
+    line-height: 16px;
+}
+
+.veio {
+   
+    position: absolute;
+    position: right;
+    height: 100vh;
+    object-fit: cover;
+    margin-left: 380px;
+    width: 580px;
+    object-position: 80% 100%;
+
+}
+.logo {
+  width: 350px;
+
+  height: 100px;
+
+  margin-top: 50px;
+
+  margin-bottom: 92px;
+
+}
+
+#email {
+padding: 10px;
+position: absolute;
+width: 798px;
+left: 20px;
+top: 470px;
+border: none;
+border-left: #04D361 6px solid;
+height: 30px;
+backdrop-filter: blur(15px);
+background-color: #FFFFFF;
+
+}
+
+button {
+  position: absolute;
+margin-top: 19px;
+left: 844px;
+background-color: #8257E5;
+height: 52px;
+width: 55px;
+border: none;
+
+}
+
+
+.seta {
+  position: relative;
+  color: #8257E5;
+  top: 7px;
+}
+
+#insira
+{
+color:#A8A8A8 ;
+padding: 36px;
+}
